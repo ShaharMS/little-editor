@@ -1,8 +1,0 @@
--lib thx.semver
--lib jQueryExtern
--lib hx3compat
--cp src
--js app.js
---macro allowPackage('sys')
--main App
--debug

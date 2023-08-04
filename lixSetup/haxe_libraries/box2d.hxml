@@ -1,3 +1,0 @@
-# @install: lix --silent download "haxelib:/box2d#1.2.3" into box2d/1.2.3/haxelib
--cp ${HAXE_LIBCACHE}/box2d/1.2.3/haxelib/
--D box2d=1.2.3

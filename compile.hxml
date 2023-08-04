@@ -1,0 +1,8 @@
+--class-path src
+--library little
+--library texter
+--main Main
+--js interp.js
+#--interp
+--debug
+# --dce full
